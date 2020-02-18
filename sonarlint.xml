@@ -1,0 +1,10 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="excludedRules">
+      <set>
+        <option value="squid:AssignmentInSubExpressionCheck" />
+        <option value="squid:CommentedOutCodeLine" />
+      </set>
+    </option>
+  </component>
+</application>
