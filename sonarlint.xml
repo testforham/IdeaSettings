@@ -4,6 +4,7 @@
       <set>
         <option value="squid:AssignmentInSubExpressionCheck" />
         <option value="squid:CommentedOutCodeLine" />
+        <option value="squid:S00120" />
       </set>
     </option>
   </component>
