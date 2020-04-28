@@ -1,0 +1,8 @@
+<templateSet group="Custom">
+  <template name="test" value="@org.testng.annotations.Test&#10;public static void $METHOD_NAME$(){&#10;  $END$&#10;}" description="Create TestNG test method" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
