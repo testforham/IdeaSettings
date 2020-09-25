@@ -82,9 +82,13 @@
           <option name="url" value="https://github.com/testforham/ccumber.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/testforham/WK.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Ham\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\Hamazasp_Torosyan\IdeaProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
