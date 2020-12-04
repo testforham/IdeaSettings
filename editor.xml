@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseOneLineMethods" value="false" />
   </component>
