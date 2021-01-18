@@ -1382,6 +1382,11 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
+                  <entry key="IvyIDEA">
+                    <value>
+                      <FeaturePluginData displayName="IvyIDEA" pluginName="IvyIDEA" pluginId="IvyIDEA" />
+                    </value>
+                  </entry>
                   <entry key="android">
                     <value>
                       <FeaturePluginData displayName="Android" pluginName="Android" pluginId="org.jetbrains.android" />
